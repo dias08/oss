@@ -1,2 +1,2 @@
-# oss-Lannjutan
+# oss-Lanjutan
 Daftar Open Source Software Indonesia
